@@ -1,7 +1,7 @@
 python-mot-sls
 ==============
 
-Plugin to the `python-msc` library to handle DAB Slideshow encoding as per ETSI TS 101 499.
+Plugin to the `python-mot` library to handle DAB Slideshow encoding as per ETSI TS 101 499.
 
 # Dependencies
 
