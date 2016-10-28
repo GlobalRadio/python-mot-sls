@@ -3,12 +3,12 @@
 from distutils.core import setup
 
 setup(name='dabmotsls',
-      version='1.0.0',
+      version='1.0.1',
       description='Plugin to the python-mot library to handle DAB Slideshow encoding as per ETSI TS 101 499',
       author='Ben Poor',
       author_email='ben.poor@thisisglobal.com',
       url='https://github.com/GlobalRadio/python-mot-sls',
-      download_url='https://github.com/GlobalRadio/python-mot-sls/tarball/1.0.0',
+      download_url='https://github.com/GlobalRadio/python-mot-sls/tarball/1.0.1',
       packages=['mot', 'mot.sls'],
       package_dir = {'' : 'src'}
      )
