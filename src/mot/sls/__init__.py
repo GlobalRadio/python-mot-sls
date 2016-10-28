@@ -1,5 +1,5 @@
-from dabdata import int_to_bitarray
-from dabdata.mot import HeaderParameter, encode_absolute_time, decode_absolute_time
+from msc import int_to_bitarray
+from mot import HeaderParameter, encode_absolute_time, decode_absolute_time
 from bitarray import bitarray
 
 class TriggerTime(HeaderParameter):
